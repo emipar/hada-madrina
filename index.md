@@ -1,35 +1,14 @@
+
+HADA MADRINA: **H**uman **A**ware **DA**ta Science for **MA**chine Learning **DRI**ve**N** **A**pplications (2021-2024)
 ---
-title: Home
-layout: home
+
+This proposal arises as a natural response to cover a set of common gaps that we have identified after several years working as machine
+learning (ML) experts in multidisciplinary research and innovation oriented teams in health and financial applications. To develop ML
+models in these two fields is particularly difficult because the scarcity of data must be completed with a lot of prior domain knowledge, that sometimes is hard to embed in the design of the ML models. On top of that, the two fields are highly regulated, which imposes severe limitations to the black-box nature of most ML approaches. However, every time these multidisciplinar collaborations ended up in the deployment of successful model, and the domain experts experienced its potential to help them improve their decision-making processes, these non-ML native domain experts would refer the ML component as a Fairy Godmother that brought in the magic ingredient the project needed to outperform.
+
+The project pursues the development of a Human-Aware DAta science framework for MAchine learning DRIveN Applications (HADA
+MADRINA, Fairy Godmother in Spanish). HADA MADRINA is a Bayesian ML framework that helps us design those tailored ML Fairy
+Godmother each project needs in a faster, robust and human-aware manner. The project starting point is a recent key research result of
+the team, SSHIBA, a framework that generalizes from a Bayesian perspective many tailored ML solutions we had developed in the past to deal with specific health or finance problems.
+
 ---
-
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
-
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
-
-More specifically, the created site:
-
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
-
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
-
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
-
-To get started with creating a site, simply:
-
-1. click "[use this template]" to create a GitHub repository
-2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
-
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
-
-----
-
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
-
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
